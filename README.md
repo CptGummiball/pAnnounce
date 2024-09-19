@@ -1,6 +1,6 @@
 # pAnnounce
 ![Spigot](https://img.shields.io/badge/Spigot-1.20--1.21.1-yellow.svg)
-![Paper](https://img.shields.io/badge/PaperMC-1.20--1-21.1-blue.svg)
+![Paper](https://img.shields.io/badge/PaperMC-1.20--1.21.1-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.1-gray.svg)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
