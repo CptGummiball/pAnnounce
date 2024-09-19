@@ -1,0 +1,6 @@
+name: pAnnounce
+version: 1.0.1
+main: org.cptgummiball.pAnnounce.Main
+api-version: '1.20'
+author: [ cptgummiball ]
+description: "Announce players via Title, Actionbar, or Chat when they join the server."

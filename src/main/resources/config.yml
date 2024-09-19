@@ -1,0 +1,23 @@
+TestPlayer1:
+  Type: Actionbar
+  Text: "This is a Text in the Actionbar"
+  Textcolor: Not available in Actionbar
+  Subtext: "Not available in Actionbar"
+  Subtextcolor: Not available in Actionbar
+  Sound: ENTITY_PLAYER_LEVELUP
+
+TestPlayer2:
+  Type: Chat
+  Text: "This is a Text in the Chat"
+  Textcolor: BLUE
+  Subtext: "Not available in Chat"
+  Subtextcolor: Not available in Chat
+  Sound: BLOCK_NOTE_BLOCK_PLING
+
+TestPlayer3:
+  Type: Title
+  Text: "This is a Text in the Title"
+  Textcolor: RED
+  Subtext: "This is a Subtext in Title"
+  Subtextcolor: YELLOW
+  Sound: ENTITY_ENDER_DRAGON_GROWL
